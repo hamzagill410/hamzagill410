@@ -3,5 +3,5 @@ I'm passionate about technology and its limitless possibilities. I tend to stay 
 I'm an efficient, proactive, and collaborative team player who enjoy working on complex problems and finding innovative and efficient solutions.
 - 👀 I’m interested in Software development roles specifically in Backend and Frontend Development.
 - 🌱 I’m currently working on Frontend based Weather application. I self learned HTML ,CSS and JavaScript and React framework. I'm applying these skills I learned in the Weather App project.I can share code upon request.
-- 📫 You can reach me on my LinkedIn and my email,hamza.gill@yahoo.com
+- 📫 You can reach me on my LinkedIn or my email,hamza.gill@yahoo.com
   
